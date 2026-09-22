@@ -1,0 +1,320 @@
+[
+  {
+    "id": "1.1",
+    "module": "Module 1 — Se repérer",
+    "titre": "1.1 — Contexte de base : qui, où, quoi",
+    "file": "content/1.1.md"
+  },
+  {
+    "id": "1.2",
+    "module": "Module 1 — Se repérer",
+    "titre": "1.2 — Navigation : chemins absolus et relatifs",
+    "file": "content/1.2.md"
+  },
+  {
+    "id": "1.3",
+    "module": "Module 1 — Se repérer",
+    "titre": "1.3 — Lister avec ls",
+    "file": "content/1.3.md"
+  },
+  {
+    "id": "1.4",
+    "module": "Module 1 — Se repérer",
+    "titre": "1.4 — file, stat et les 3 dates",
+    "file": "content/1.4.md"
+  },
+  {
+    "id": "1.5",
+    "module": "Module 1 — Se repérer",
+    "titre": "1.5 — L'arborescence FHS",
+    "file": "content/1.5.md"
+  },
+  {
+    "id": "1.6",
+    "module": "Module 1 — Se repérer",
+    "titre": "1.6 — Documentation et historique",
+    "file": "content/1.6.md"
+  },
+  {
+    "id": "2.1",
+    "module": "Module 2 — Manipuler des fichiers",
+    "titre": "2.1 — Créer, copier, déplacer, supprimer",
+    "file": "content/2.1.md"
+  },
+  {
+    "id": "2.2",
+    "module": "Module 2 — Manipuler des fichiers",
+    "titre": "2.2 — Liens symboliques vs liens durs",
+    "file": "content/2.2.md"
+  },
+  {
+    "id": "2.3",
+    "module": "Module 2 — Manipuler des fichiers",
+    "titre": "2.3 — find, l'outil pivot en mission",
+    "file": "content/2.3.md"
+  },
+  {
+    "id": "2.4",
+    "module": "Module 2 — Manipuler des fichiers",
+    "titre": "2.4 — Espace disque (du/df) et archives (tar)",
+    "file": "content/2.4.md"
+  },
+  {
+    "id": "2.5",
+    "module": "Module 2 — Manipuler des fichiers",
+    "titre": "2.5 — Globbing et guillemets",
+    "file": "content/2.5.md"
+  },
+  {
+    "id": "3.1",
+    "module": "Module 3 — Flux et texte",
+    "titre": "3.1 — Lire un fichier",
+    "file": "content/3.1.md"
+  },
+  {
+    "id": "3.2",
+    "module": "Module 3 — Flux et texte",
+    "titre": "3.2 — grep, filtrer par motif",
+    "file": "content/3.2.md"
+  },
+  {
+    "id": "3.3",
+    "module": "Module 3 — Flux et texte",
+    "titre": "3.3 — cut, sort, uniq : extraire et compter",
+    "file": "content/3.3.md"
+  },
+  {
+    "id": "3.4",
+    "module": "Module 3 — Flux et texte",
+    "titre": "3.4 — sed et tr : transformer du texte",
+    "file": "content/3.4.md"
+  },
+  {
+    "id": "3.5",
+    "module": "Module 3 — Flux et texte",
+    "titre": "3.5 — awk, raisonner par colonnes",
+    "file": "content/3.5.md"
+  },
+  {
+    "id": "3.6",
+    "module": "Module 3 — Flux et texte",
+    "titre": "3.6 — Redirections et pipes",
+    "file": "content/3.6.md"
+  },
+  {
+    "id": "4.1",
+    "module": "Module 4 — Permissions, partie 1",
+    "titre": "4.1 — Le modèle rwx et l'ordre d'évaluation",
+    "file": "content/4.1.md"
+  },
+  {
+    "id": "4.2",
+    "module": "Module 4 — Permissions, partie 1",
+    "titre": "4.2 — r/w/x : le piège fichier vs répertoire",
+    "file": "content/4.2.md"
+  },
+  {
+    "id": "4.3",
+    "module": "Module 4 — Permissions, partie 1",
+    "titre": "4.3 — L'octal et chmod",
+    "file": "content/4.3.md"
+  },
+  {
+    "id": "4.4",
+    "module": "Module 4 — Permissions, partie 1",
+    "titre": "4.4 — umask",
+    "file": "content/4.4.md"
+  },
+  {
+    "id": "5.1",
+    "module": "Module 5 — Identités et bits spéciaux",
+    "titre": "5.1 — UID/GID, /etc/passwd, useradd/usermod",
+    "file": "content/5.1.md"
+  },
+  {
+    "id": "5.2",
+    "module": "Module 5 — Identités et bits spéciaux",
+    "titre": "5.2 — chown et chgrp",
+    "file": "content/5.2.md"
+  },
+  {
+    "id": "5.3",
+    "module": "Module 5 — Identités et bits spéciaux",
+    "titre": "5.3 — SUID",
+    "file": "content/5.3.md"
+  },
+  {
+    "id": "5.4",
+    "module": "Module 5 — Identités et bits spéciaux",
+    "titre": "5.4 — SGID",
+    "file": "content/5.4.md"
+  },
+  {
+    "id": "5.5",
+    "module": "Module 5 — Identités et bits spéciaux",
+    "titre": "5.5 — Sticky bit",
+    "file": "content/5.5.md"
+  },
+  {
+    "id": "5.6",
+    "module": "Module 5 — Identités et bits spéciaux",
+    "titre": "5.6 — ACL",
+    "file": "content/5.6.md"
+  },
+  {
+    "id": "5.7",
+    "module": "Module 5 — Identités et bits spéciaux",
+    "titre": "5.7 — chattr : l'immuabilité",
+    "file": "content/5.7.md"
+  },
+  {
+    "id": "6.1",
+    "module": "Module 6 — Processus et système",
+    "titre": "6.1 — ps, les colonnes et l'arbre des processus",
+    "file": "content/6.1.md"
+  },
+  {
+    "id": "6.2",
+    "module": "Module 6 — Processus et système",
+    "titre": "6.2 — kill -15 vs kill -9",
+    "file": "content/6.2.md"
+  },
+  {
+    "id": "6.3",
+    "module": "Module 6 — Processus et système",
+    "titre": "6.3 — Jobs, bg/fg, nohup",
+    "file": "content/6.3.md"
+  },
+  {
+    "id": "6.4",
+    "module": "Module 6 — Processus et système",
+    "titre": "6.4 — Disque et mémoire",
+    "file": "content/6.4.md"
+  },
+  {
+    "id": "6.5",
+    "module": "Module 6 — Processus et système",
+    "titre": "6.5 — systemctl et journalctl (théorie)",
+    "file": "content/6.5.md"
+  },
+  {
+    "id": "7.1",
+    "module": "Module 7 — Réseau",
+    "titre": "7.1 — La méthode en couches, interface et routage",
+    "file": "content/7.1.md"
+  },
+  {
+    "id": "7.2",
+    "module": "Module 7 — Réseau",
+    "titre": "7.2 — ping et traceroute",
+    "file": "content/7.2.md"
+  },
+  {
+    "id": "7.3",
+    "module": "Module 7 — Réseau",
+    "titre": "7.3 — DNS : nslookup, dig et types d'enregistrements",
+    "file": "content/7.3.md"
+  },
+  {
+    "id": "7.4",
+    "module": "Module 7 — Réseau",
+    "titre": "7.4 — dig +trace, la résolution récursive complète",
+    "file": "content/7.4.md"
+  },
+  {
+    "id": "7.5",
+    "module": "Module 7 — Réseau",
+    "titre": "7.5 — /etc/hosts et l'ordre de résolution (nsswitch)",
+    "file": "content/7.5.md"
+  },
+  {
+    "id": "7.6",
+    "module": "Module 7 — Réseau",
+    "titre": "7.6 — Ports : ss et nc",
+    "file": "content/7.6.md"
+  },
+  {
+    "id": "7.7",
+    "module": "Module 7 — Réseau",
+    "titre": "7.7 — HTTP et TLS avec curl",
+    "file": "content/7.7.md"
+  },
+  {
+    "id": "7.8",
+    "module": "Module 7 — Réseau",
+    "titre": "7.8 — SSH et permissions de clé",
+    "file": "content/7.8.md"
+  },
+  {
+    "id": "8.1",
+    "module": "Module 8 — Shell utilisable au quotidien",
+    "titre": "8.1 — Variables d'environnement et PATH",
+    "file": "content/8.1.md"
+  },
+  {
+    "id": "8.2",
+    "module": "Module 8 — Shell utilisable au quotidien",
+    "titre": "8.2 — Alias",
+    "file": "content/8.2.md"
+  },
+  {
+    "id": "8.3",
+    "module": "Module 8 — Shell utilisable au quotidien",
+    "titre": "8.3 — Codes retour : $?, &&, ||",
+    "file": "content/8.3.md"
+  },
+  {
+    "id": "8.4",
+    "module": "Module 8 — Shell utilisable au quotidien",
+    "titre": "8.4 — Survie sous vi/vim",
+    "file": "content/8.4.md"
+  },
+  {
+    "id": "8.5",
+    "module": "Module 8 — Shell utilisable au quotidien",
+    "titre": "8.5 — Écrire un script bash",
+    "file": "content/8.5.md"
+  },
+  {
+    "id": "8.6",
+    "module": "Module 8 — Shell utilisable au quotidien",
+    "titre": "8.6 — cron",
+    "file": "content/8.6.md"
+  },
+  {
+    "id": "9.1",
+    "module": "Module 9 — Services et systemd",
+    "titre": "9.1 — Le modèle systemd",
+    "file": "content/9.1.md"
+  },
+  {
+    "id": "9.2",
+    "module": "Module 9 — Services et systemd",
+    "titre": "9.2 — Déployer un service : compte dédié et unité",
+    "file": "content/9.2.md"
+  },
+  {
+    "id": "9.3",
+    "module": "Module 9 — Services et systemd",
+    "titre": "9.3 — Durcissement et pannes classiques",
+    "file": "content/9.3.md"
+  },
+  {
+    "id": "9.4",
+    "module": "Module 9 — Services et systemd",
+    "titre": "9.4 — journald",
+    "file": "content/9.4.md"
+  },
+  {
+    "id": "9.5",
+    "module": "Module 9 — Services et systemd",
+    "titre": "9.5 — Timers : la relève de cron",
+    "file": "content/9.5.md"
+  },
+  {
+    "id": "9.6",
+    "module": "Module 9 — Services et systemd",
+    "titre": "9.6 — Diagnostic et checklist de livraison",
+    "file": "content/9.6.md"
+  }
+]
